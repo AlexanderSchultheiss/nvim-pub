@@ -6,3 +6,14 @@
 --
 -- Or remove existing autocmds by their group name (which is prefixed with `lazyvim_` for the defaults)
 -- e.g. vim.api.nvim_del_augroup_by_name("lazyvim_wrap_spell")
+--
+-- OLD CONFIG:
+-- vim.cmd("autocmd FileType * inoremap ' '")
+-- vim.cmd("autocmd FileType * inoremap ( (")
+-- vim.cmd("autocmd FileType * inoremap [ [")
+-- vim.cmd("autocmd FileType * inoremap < <")
+-- vim.cmd('autocmd FileType * inoremap " "')
+-- vim.cmd("autocmd FileType * inoremap { {")
+-- vim.cmd("autocmd FileType * inoremap ` `")
+-- vim.cmd("autocmd FileType norg setlocal conceallevel=3")
+-- vim.cmd("autocmd FileType norg setlocal concealcursor=c")
