@@ -9,7 +9,6 @@ return {
           ["core.defaults"] = {}, -- Loads default behaviour
           ["core.concealer"] = {}, -- Adds pretty icons to your documents
           ["core.summary"] = {},
-          ["core.latex.renderer"] = {},
           ["core.journal"] = { -- Manages Neorg workspaces
             config = {
               workspace = "journal",
