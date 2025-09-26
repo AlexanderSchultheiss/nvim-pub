@@ -1,5 +1,5 @@
 {
-  "LazyVim": { "branch": "main", "commit": "6e3a06306d72a7f7a401c007f56706023a6c00ea" },
+  "LazyVim": { "branch": "main", "commit": "c467282a8352d9ec067b07a00463d850bb4146b3" },
   "SchemaStore.nvim": { "branch": "main", "commit": "fea7b3eb30d6e7261529ae7e8e94bf717f9c428f" },
   "battery.nvim": { "branch": "main", "commit": "ecc6cf13312a26179f67d3b99d203da9285b9b0a" },
   "blink.cmp": { "branch": "main", "commit": "327fff91fe6af358e990be7be1ec8b78037d2138" },
@@ -28,7 +28,7 @@
   "mini.pairs": { "branch": "main", "commit": "3738ea30ff33e0cbf2983dc67319a5468d25b0a9" },
   "neorg": { "branch": "main", "commit": "4da2159b3f3420d43613f43e159f4253b8544474" },
   "neotest": { "branch": "master", "commit": "2cf3544fb55cdd428a9a1b7154aea9c9823426e8" },
-  "neotest-golang": { "branch": "main", "commit": "e387947d2d6d11512decff238ed2c0ae1b039bb2" },
+  "neotest-golang": { "branch": "main", "commit": "970a6b0d21af47d95057b9344771be0243869545" },
   "neotest-jest": { "branch": "main", "commit": "2f657403aabab7d68eaa2cb9181dc4bb7fdd8a08" },
   "neotest-python": { "branch": "master", "commit": "1b1b1abf928f32bbd6a7d183f7ffc80a591eb162" },
   "noice.nvim": { "branch": "main", "commit": "0427460c2d7f673ad60eb02b35f5e9926cf67c59" },
