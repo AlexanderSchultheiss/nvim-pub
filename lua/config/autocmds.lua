@@ -15,5 +15,5 @@
 -- vim.cmd('autocmd FileType * inoremap " "')
 -- vim.cmd("autocmd FileType * inoremap { {")
 -- vim.cmd("autocmd FileType * inoremap ` `")
--- vim.cmd("autocmd FileType norg setlocal conceallevel=3")
--- vim.cmd("autocmd FileType norg setlocal concealcursor=c")
+vim.cmd("autocmd FileType norg setlocal conceallevel=3")
+vim.cmd("autocmd FileType norg setlocal concealcursor=c")
