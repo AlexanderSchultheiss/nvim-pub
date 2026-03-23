@@ -2,7 +2,8 @@ return {
   {
     "nvim-neorg/neorg",
     lazy = false, -- Disable lazy loading as some `lazy.nvim` distributions set `lazy = true` by default
-    branch = "main", -- Pin Neorg to the latest stable release
+    version = false,
+    dependencies = { "nvim-neorg/tree-sitter-norg" },
     config = function()
       require("neorg").setup({
         load = {
