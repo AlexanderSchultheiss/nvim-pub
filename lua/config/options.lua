@@ -15,8 +15,11 @@ vim.opt.undofile = true
 -- LSP Server to use for TypeScript.
 --@type "vtsls" | "tsgo"
 -- vim.g.lazyvim_ts_lsp = "vtsls" -- currently the default
--- vim.g.lazyvim_ts_lsp = "tsgo" -- currently the default
+-- vim.g.lazyvim_ts_lsp = "tsgo"
 
 -- To use the newer, much faster `tsgo` LSP server, either:
 -- * enable the `tsgo` extra, or
 -- * set `vim.g.lazyvim_ts_lsp = "tsgo"` in your `options.lua`
+--
+-- Native inline completions don't support being shown as regular completions
+vim.g.ai_cmp = false
